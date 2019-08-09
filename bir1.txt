@@ -1,2 +1,8 @@
 This is bir1 file. 
 
+
+This is martha made changes in the bir1.txt
+
+I like to practice and see how the merge works in the git. 
+
+
