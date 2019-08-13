@@ -7,3 +7,5 @@ I like to practice and see how the merge works in the git.
 
 This is a 2nd change in the code by martha branch. 
 
+
+This is a last line added through martha branch. 
