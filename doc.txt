@@ -1,3 +1,0 @@
-This is a test file created for testing branch and merging. 
-
-This is a secon line added to file with master branch. 

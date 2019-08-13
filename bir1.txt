@@ -1,4 +1,0 @@
-This is bir1 file.
-
-This is 1st change that I am making in the master. 
-
