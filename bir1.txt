@@ -1,6 +1,0 @@
-This is bir1 file.
-
-This is a first line added after branching. 
-
-This is a second line added after bracnhing. Remember "This is bir1 file" is original line, not firt line.  
-
