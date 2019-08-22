@@ -1,2 +1,2 @@
 A file created with master branch. 
-
+This is a line added by master from GitHub.
