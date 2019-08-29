@@ -1,6 +1,5 @@
-/*This is a simple java program by Bir Rana */
 
-class helloworld 
+Class helloworld 
 {
 
 	public static void main(String args[]) 
@@ -9,7 +8,6 @@ class helloworld
         System.out.println("Hello, World"); 
     } 
 } 
-
 
 
 
