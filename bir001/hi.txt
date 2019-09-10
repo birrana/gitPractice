@@ -1,3 +1,0 @@
-I love Jenkins for CI/CD. 
-I admire Jenkins ability.
-
